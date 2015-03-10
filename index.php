@@ -1,5 +1,5 @@
 <? php 
- var x="zefazef";
- echo('zefa');
+  var x="boussad";
+  echo('zefa');
 
 ?>
