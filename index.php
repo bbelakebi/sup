@@ -1,1 +1,5 @@
-<? php echo('zefa'); ?>
+<? php 
+ var x="zefazef";
+ echo('zefa');
+
+?>
